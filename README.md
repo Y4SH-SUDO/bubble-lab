@@ -27,9 +27,3 @@ Charts land in `output/` (PNG, ready to post).
 - Built-in history is approximate, quarterly, price only, and stops before the full recovery. Use `--real` for better data.
 - Strategy thresholds (20%, 30%, 10-month average) are arbitrary. Don't tune them until history looks good, that's overfitting.
 
-## Posting on LinkedIn
-
-- Lead with one finding and one chart (`ai_worlds.png` or `ai_strategies.png`).
-- State your assumptions in the first lines: "simulated, not a forecast".
-- Don't tell people what to buy. Say what you learned and what surprised you.
-- Link the repo (GitHub) so people can change the assumptions themselves.
